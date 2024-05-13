@@ -4,14 +4,10 @@ DEMO: [http://45.136.205.175/](http://45.136.205.175/)
 
 Stack: Python 3.10, FastAPI, Next.js, Nginx, MongoDB
 
-### Архитектура
-![image](https://github.com/Tsuchikage/AnimeRecommendationApp/raw/main/docs/9.png)
-
-
 ## Run project
 
 ```bash
-git clone https://github.com/Tsuchikage/AnimeRecommendationApp.git
+git clone https://github.com/Artold0far/artold0far.git
 ```
 ```bash
 mkdir -p AnimeRecommendationApp/server/src/datasets
@@ -36,15 +32,15 @@ docker-compose up --build -d
 ```
 
 ### Screenshots
-![1](https://github.com/Tsuchikage/AnimeRecommendationApp/raw/main/docs/1.jpg)
-![1](https://github.com/Tsuchikage/AnimeRecommendationApp/raw/main/docs/2.jpg)
-![1](https://github.com/Tsuchikage/AnimeRecommendationApp/raw/main/docs/3.jpg)
-![1](https://github.com/Tsuchikage/AnimeRecommendationApp/raw/main/docs/4.jpg)
-![1](https://github.com/Tsuchikage/AnimeRecommendationApp/raw/main/docs/11.jpg)
-![1](https://github.com/Tsuchikage/AnimeRecommendationApp/raw/main/docs/5.jpg)
-![1](https://github.com/Tsuchikage/AnimeRecommendationApp/raw/main/docs/6.jpg)
-![1](https://github.com/Tsuchikage/AnimeRecommendationApp/raw/main/docs/7.jpg)
-![1](https://github.com/Tsuchikage/AnimeRecommendationApp/raw/main/docs/8.png)
+![1](https://github.com/Artold0far/artold0far/blob/main/docs/1.jpg)
+![1](https://github.com/Artold0far/artold0far/blob/main/docs/2.jpg)
+![1](https://github.com/Artold0far/artold0far/blob/main/docs/3.jpg)
+![1](https://github.com/Artold0far/artold0far/blob/main/docs/4.jpg)
+![1](https://github.com/Artold0far/artold0far/blob/main/docs/11.jpg)
+![1](https://github.com/Artold0far/artold0far/blob/main/docs/5.jpg)
+![1](https://github.com/Artold0far/artold0far/blob/main/docs/6.jpg)
+![1](https://github.com/Artold0far/artold0far/blob/main/docs/7.jpg)
+![1](https://github.com/Artold0far/artold0far/blob/main/docs/8.png)
 
 
 ## Описание проекта
@@ -111,6 +107,6 @@ Content-based рекомендательная система основана �
 
 ### Метрики
 **Mean average precision at K (map@K)** - дает представление о том, насколько релевантен список рекомендуемых элементов. 
-[Код подсчета метрик.](https://github.com/Tsuchikage/My-First-Data-Project-2/blob/dev/metrics_mapk_item_user_content_hybrid.ipynb)
+[Код подсчета метрик.](https://github.com/Artold0far/My-First-Data-Project-2/blob/dev/metrics_mapk_item_user_content_hybrid.ipynb)
 
-![1](https://github.com/Tsuchikage/AnimeRecommendationApp/raw/main/docs/10.png)
+![1](https://github.com/Artold0far/artold0far/blob/main/docs/10.png)
