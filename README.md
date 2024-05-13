@@ -1,4 +1,4 @@
-# AnimeRecommendationApp
+# AnimeRecApp
 
 DEMO: [http://45.136.205.175/](http://45.136.205.175/)
 
